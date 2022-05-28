@@ -1,4 +1,4 @@
-<!__[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_design.gif)](https://github.com/Pavalaselvi/Pavalaselvi)-->
+<!__ [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_design.gif)](https://github.com/Pavalaselvi/Pavalaselvi) __>
 
 <h1 align="center">Hi 👋, I'm Pavalaselvi</h1>
 <h3 align="center">A passionate Data Analyst and full-stack developer from India</h3>
