@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pavalaselvi</h1>
-<h3 align="center">A passionate Data Analyst and full-stack developer from India</h3>
+<h3 align="center">A passionate Data Analyst and Backend developer from India</h3>
 <img src='https://camo.githubusercontent.com/45eae4aa56d8254fb10267c7f9eb5f14ea8bbd0e97fe98812e04681d2de42729/687474703a2f2f63646e2e6c6f776769662e636f6d2f736d616c6c2f396362313266353164666662616161362d6368617261637465722d747970696e672d62792d76696e63656e742d6d6f6b75656e6b6f2d6472696262626c652e676966'  align='right' alt='Coding' width='400'>'
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavalaselvi&label=Profile%20views&color=0e75b6&style=flat" alt="pavalaselvi" /> </p>
 
